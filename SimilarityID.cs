@@ -20,7 +20,7 @@ namespace SimIDExample
  
         private String getQuery()
         {
-            return "UPDATE Users SET Name = '" + name.Text + "' WHERE UID = '" + ViewState["UID"].ToString() + "'";
+            return "UPDATE Users SET Name = '" + name.Text + "'  WHERE UID = '" + ViewState["UID"].ToString() + "'";
         }//end getQuery
     }//end class
 }//end namespace
