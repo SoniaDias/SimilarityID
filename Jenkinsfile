@@ -12,11 +12,11 @@ pipeline {
         }
 
 
-	    stage ('Initialize') {
-	      steps {
-	        echo 'cenas maradas'
-	      }
-	    }
+	    stage('SAST Scan') {
+		    steps{
+			    echo ' i am on sast scan'
+		    }
+        }
 
 
 
