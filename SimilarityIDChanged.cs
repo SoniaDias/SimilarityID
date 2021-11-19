@@ -1,6 +1,6 @@
 namespace SimIDExample
 {
-    public partial class index : System.Web.UI.Page
+    public partial class indexx : System.Web.UI.Page
     {
         private void doUpdate(String query)
         {
