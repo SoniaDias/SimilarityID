@@ -1,9 +1,4 @@
-{
-    agent any
-
-    pipeline {
-    agent any
-    stages {
+stages {
         stage('Get code') {
             steps {
                 //clean workspace
@@ -13,4 +8,3 @@
             }
         }
     }
-}
