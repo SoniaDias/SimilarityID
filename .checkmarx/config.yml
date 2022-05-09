@@ -1,7 +1,7 @@
 # ************************************* CHECKMARX CONFIGURATION FILE **********************************************
 # * To use this file as 'Config as code' you need to save it under a specific location in your source directory:  *
 # * Under your root, create a folder: ".checkmarx"                                                                *
-# * In this new folder place this file, and rename it to: "config.yml"                                            *
+# * In this new folder place this file, and rename it to: "config.yml" "                                            *
 # *****************************************************************************************************************
 
 version: 1
