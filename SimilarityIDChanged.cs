@@ -24,4 +24,4 @@ namespace SimIDExample
             return "UPDATE Users SET Name = '" + name.Text + "' WHERE UID = '" + ViewState["UID"].ToString() + "'";
         }//end getQuery
     }//end class
-}//end namespace
+}//end namespacewedwe
